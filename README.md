@@ -1,7 +1,7 @@
 # ScarletDDoS
 **Simple, yet powerful DoS/DDoS tool. **
 
-**Intended for ducational purpose only!**
+**Intended for educational purpose only!**
 
 ## Usage
 Install the `requests` library by typing in your cmd:
