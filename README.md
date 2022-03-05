@@ -1,5 +1,5 @@
 # ScarletDDoS
-**Simple, yet powerful DoS/DDoS tool. **
+**Simple, yet powerful DoS/DDoS tool.**
 
 **Intended for educational purpose only!**
 
